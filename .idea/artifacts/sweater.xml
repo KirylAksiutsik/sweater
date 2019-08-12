@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="sweater">
+    <output-path>$PROJECT_DIR$/out/artifacts/sweater</output-path>
+    <root id="archive" name="sweater.war" />
+  </artifact>
+</component>

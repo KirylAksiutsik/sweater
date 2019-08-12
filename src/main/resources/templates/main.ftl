@@ -2,7 +2,7 @@
 <#import "parts/login.ftl" as l>
 
 <@c.page>
-Add new user
+    Messages
 <div>
     <@l.logout />
 </div>
